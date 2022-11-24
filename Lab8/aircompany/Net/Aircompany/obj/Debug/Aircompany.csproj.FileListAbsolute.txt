@@ -1,0 +1,7 @@
+E:\Artyom\3 курс\1 сем\Тестирование ПО\Лаба1,2,3,4,5\Testing\Lab8\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe.config
+E:\Artyom\3 курс\1 сем\Тестирование ПО\Лаба1,2,3,4,5\Testing\Lab8\aircompany\Net\Aircompany\bin\Debug\Aircompany.exe
+E:\Artyom\3 курс\1 сем\Тестирование ПО\Лаба1,2,3,4,5\Testing\Lab8\aircompany\Net\Aircompany\bin\Debug\Aircompany.pdb
+E:\Artyom\3 курс\1 сем\Тестирование ПО\Лаба1,2,3,4,5\Testing\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.AssemblyReference.cache
+E:\Artyom\3 курс\1 сем\Тестирование ПО\Лаба1,2,3,4,5\Testing\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.csproj.CoreCompileInputs.cache
+E:\Artyom\3 курс\1 сем\Тестирование ПО\Лаба1,2,3,4,5\Testing\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.exe
+E:\Artyom\3 курс\1 сем\Тестирование ПО\Лаба1,2,3,4,5\Testing\Lab8\aircompany\Net\Aircompany\obj\Debug\Aircompany.pdb
